@@ -1,6 +1,4 @@
-# Question 1 
 # best_interval function
-
 def best_interval(transactions, t):
     """ 
     Given an input list transactions and t where t is the length of the interval. best_interval will output a 2 element tuple
@@ -145,9 +143,7 @@ def sort_counting(new_list, column):
     return new_list
 
 
-#Question 2
 # Anagrams
-
 def words_with_anagrams(list1, list2):
     """
     This function takes input of 2 lists which are list1 and list2. This function is used to find all the words in the first list
